@@ -7,6 +7,7 @@ $(document).ready(function () {
         onOpen: function (el) { /* Do Stuff*/ }, // A function to be called when sideNav is opened
         onClose: function (el) { /* Do Stuff*/ }, // A function to be called when sideNav is closed
     }
+    
     );
     $('.parallax').parallax();
 });
